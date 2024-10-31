@@ -1,0 +1,14 @@
+{
+    "name": "zyandeep/food-park",
+    "description": "A toy e-commerce web app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zyandeep",
+            "email": "zyandeep000@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
